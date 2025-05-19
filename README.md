@@ -1,5 +1,4 @@
 # SA-AutoMod-v.0.9.0-Pre-Alpha
-======
 ## Mod your San Andreas quickly and effortlessly.
 All-in-one HTTP handler, link grabber, downloader and installer for popular Grand Theft Auto modding websites.
 ------
