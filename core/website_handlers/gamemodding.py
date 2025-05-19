@@ -89,7 +89,7 @@ def download_mod(mod_page_url: str, session: requests.Session, output_path: str,
         if "filename=" in cd:
             filename = cd.split("filename=")[1].strip('" ')
         else:
-            # fallback
+            # Fallback
             filename = "modfile.7z"
 
         output_path = os.path.join(output_path, filename)
