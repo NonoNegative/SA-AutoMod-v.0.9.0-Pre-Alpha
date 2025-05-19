@@ -10,7 +10,7 @@ logging.basicConfig(
 )
 
 console = logging.StreamHandler()
-console.setLevel(logging.INFO)  # console shows INFO and above
+console.setLevel(logging.INFO) 
 formatter = logging.Formatter('%(levelname)s - %(message)s')
 console.setFormatter(formatter)
 logging.getLogger().addHandler(console)
