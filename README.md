@@ -9,4 +9,5 @@ All-in-one HTTP handler, link grabber, downloader and installer for popular Gran
 - VERY unfinished
 
 AutoMod bypasses download waits or login requirements and instantly fetches files from the URLs you provide. 
+
 Abuse or mass downloading MIGHT result in an IP ban from one or more of the supported websites.
