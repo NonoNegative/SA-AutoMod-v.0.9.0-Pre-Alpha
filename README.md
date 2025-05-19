@@ -6,7 +6,7 @@ All-in-one HTTP handler, link grabber, downloader and installer for popular Gran
 #### AutoMod is still:
 - Uncompiled.
 - Sometimes slow and messy at fetching links or images.
-- VERY unfinished
+- VERY unfinished.
 
 AutoMod bypasses download waits or login requirements and instantly fetches files from the URLs you provide. 
 
